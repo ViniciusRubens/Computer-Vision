@@ -1,2 +1,2 @@
 # Computer-Vision
- Work folder
+ Work folder. Open to see my projects.
